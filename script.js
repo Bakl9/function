@@ -56,3 +56,13 @@
 // let clone = Object.assign({}, user);
 
 // alert( user.sizes === clone.sizes );
+
+
+ let user = {
+//      name: ' Johan',
+//      age: 30,
+//  };
+
+//  let key = prompt('Что вы хотите узнать опользователе?','name');
+
+//  alert(user[key])
