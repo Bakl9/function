@@ -31,3 +31,28 @@
 // schedule['8:30'] = 'get up';
 
 // alert( isEmpty(schedule) );
+\
+//   let user = { name: 'Иван'};
+//   let admin = user;
+
+//   admin.name = 'Петя'
+//   alert(user.name)
+
+// let a =  {};
+// let b = a;
+
+// alert(a === b );
+// alert(a === b );
+
+
+// let user = {
+//     name: 'Иван',
+//     sizes: {
+//         height: 182,
+//         widht: 50
+//     }
+// };
+
+// let clone = Object.assign({}, user);
+
+// alert( user.sizes === clone.sizes );
