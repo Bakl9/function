@@ -14,3 +14,20 @@
 
 
   
+// const user = Object.assign ({
+//     name: 'John',
+//     surname: 'Smith',
+
+// })
+
+// user.name = 'Pete'
+
+// delete user.name
+
+// let schedule = {};
+
+// alert( isEmpty(scedule) );
+
+// schedule['8:30'] = 'get up';
+
+// alert( isEmpty(schedule) );
