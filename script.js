@@ -66,3 +66,8 @@
 //  let key = prompt('Что вы хотите узнать опользователе?','name');
 
 //  alert(user[key])
+
+             
+             const surce = [10,20,30,40,50]
+
+ console.log(surce[2])
