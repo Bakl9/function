@@ -71,3 +71,19 @@
              const surce = [10,20,30,40,50]
 
  console.log(surce[2])
+
+             
+              let programer = Object.assign ({
+     name: 'Veronica',
+     Age: 25,
+ })
+
+ let hobby = Object.assign ({}, programer,{
+     book: 'Javascript'
+ })
+
+ let key = prompt('Что сейчас читают?') 
+    alert(hobby[key])
+    let userName = prompt('Кто читает?')
+    alert(programer[key])
+ 
