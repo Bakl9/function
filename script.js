@@ -61,7 +61,7 @@
  let user = {
 //      name: ' Johan',
 //      age: 30,
-//  };
+//  }; 
 
 //  let key = prompt('Что вы хотите узнать опользователе?','name');
 
