@@ -107,4 +107,27 @@ let calculator = {
 calculator.read();
 alert (calculator.sum());
 alert (calculator.mul());
+
+
+let carAge = 1995 
+function calculatorAge(Age) {
+    let currentYear = 2020
+    let result = currentYear - Age
+    return result
+}
+
+
+
+
+
+
+
+
+
+
+if (calculatorAge(carAge) < 10 ) {
+    console.log ('Машина меньше 10 лет')
+} else {
+    console.log('Машина больше 10 лет')
+}
  
