@@ -22,7 +22,7 @@
 
 // user.name = 'Pete'
 
-// delete user.name
+// delete user.name 
 
 // let schedule = {};
 
