@@ -18,7 +18,7 @@
 //     name: 'John',
 //     surname: 'Smith',
 
-// })
+// })  
 
 // user.name = 'Pete'
 
