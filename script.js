@@ -129,7 +129,7 @@ if (calculatorAge(carAge) < 10 ) {
     console.log ('Машина меньше 10 лет')
 } else {
     console.log('Машина больше 10 лет')
-}
+} 
 
 
 
