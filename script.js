@@ -133,4 +133,10 @@ if (calculatorAge(carAge) < 10 ) {
 
 
 
+function showMessage (from, text, lol) {
+  console.log(from, text, lol)
+};
+
+showMessage('Аня', 'Привет',);
+showMessage('Аня', 'Как дела?', 'тут');
  
