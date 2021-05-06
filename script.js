@@ -140,3 +140,26 @@ function showMessage (from, text, lol) {
 showMessage('Аня', 'Привет',);
 showMessage('Аня', 'Как дела?', 'тут');
  
+
+
+
+let carYear = 2010
+let personYear = 1995 
+
+function calculatorAge(year) {
+  var currentYear = 2018
+  var value = currentYear - year
+  return value
+};
+
+function calculatorApdate(year) {
+  if((calculatorAge(year) >= 10 )) {
+    console.log('Возраст больше 10 лет');
+  } else {
+    console.log('Возраст меньше 10 лет')
+  };
+};
+
+calculatorApdate(carYear);
+calculatorApdate(personYear);
+
